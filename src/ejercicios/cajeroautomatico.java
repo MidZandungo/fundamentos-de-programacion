@@ -21,7 +21,7 @@ public class cajeroautomatico {//
 
         } else if (cantidad >saldo) {
             System.out.println("fondos insuficientes");
-        }else {
+        }else  {
             saldo = saldo - cantidad;
             System.out.println("retiro autorizado, efectibo entregado: " + cantidad);
             System.out.println("saldo restante:" + saldo);

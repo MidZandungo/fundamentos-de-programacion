@@ -33,7 +33,7 @@ public class salario {//
         System.out.println("pago por hora:" + pago_hora);
         System.out.println("horas normales:" + HORAS_NORMALES);
         System.out.println("horas extra:"+horas_extra);
-        System.out.println("ejercicios.practica2.salario total:"+salario_total);
+        System.out.println("salario total:"+salario_total);
     }
 
 
